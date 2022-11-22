@@ -1,50 +1,31 @@
-[
-    {
-        "suc_codigodnh": "10AU02087",
-        "facc_numerofactura": "274183",
-        "sec_establecimiento": "002",
-        "sec_puntoventa": "012",
-        "facc_fecha": "2022-11-14T10:58:21",
-        "facc_cliente": "6666666666",
-        "ide_nombreimpresion": "CONSUMIDOR FINAL",
-        "facc_subtotal": 4.460000,
-        "facc_iva": 0.536000,
-        "facc_total": 5.000000,
-        "facc_estado": 1,
-        "facc_formapago": "1",
-        "tipfp_codigo": "1",
-        "facc_valorcomisiontc": 0,
-        "dett_secuencialturno": 464,
-        "dett_fechaturno": "2022-11-14T00:00",
-        "ide_codigoidentificacion": "EM00015",
-        "empleado": "RICARDO ALCIVAR ",
-        "ide_email": "gasideal.efactura@gmail.com",
-        "tur_codigoturno": 6,
-        "facc_tirillatc": "",
-        "descripcionPago": "Billetes",
-        "facc_tipo": "",
-        "claveacceso": "1411202201099315059200120020120002741830000099912",
-        "numeroAutorizacion": "null",
-        "fechaAutorizacion": "null",
-        "factura_cobro": " ",
-        "estado_canje": " ",
-        "detalles": [
-            {
-                "suc_codigodnh": "10AU02087",
-                "facc_numerofactura": "274183",
-                "sec_establecimiento": "002",
-                "sec_puntoventa": "012",
-                "detf_cantidad": 2.083000,
-                "detf_codigoarticulo": "0174",
-                "facc_subtotal": 4.464000,
-                "detf_iva": 0.536000,
-                "detf_total": 5.000000,
-                "detf_precio": 2.142857,
-                "art_preciocompra": 1.185260,
-                "detf_subsidio": 0.484204
-            }
-        ],
-        "placa": "AAA0000",
-        "facc_lotetc": ""
+{
+    "posts": [
+      {
+        "id": 1,
+        "title": "Post 1"
+      },
+      {
+        "id": 2,
+        "title": "Post 2"
+      },
+      {
+        "id": 3,
+        "title": "Post 3"
+      }
+    ],
+    "comments": [
+      {
+        "id": 1,
+        "body": "some comment",
+        "postId": 1
+      },
+      {
+        "id": 2,
+        "body": "some comment",
+        "postId": 1
+      }
+    ],
+    "profile": {
+      "name": "typicode"
     }
-]
+  }
